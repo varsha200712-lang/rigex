@@ -1,0 +1,25 @@
+RESOLVEAI E-COMMERCE REFUND POLICY
+Effective Date: January 1, 2025
+Last Revised: October 2025
+
+1. REFUND METHODS & TIMELINES
+- All approved refunds are credited back to the original method of payment (Credit Card, Debit Card, PayPal, or UPI).
+- Banking processing time: 3 to 5 business days after refund approval.
+- Store Credit Option: Customers may opt for ResolveAI Instant Store Credit, which includes a 10% bonus credit (e.g., $100 refund becomes $110 store credit available instantly).
+
+2. REFUND ELIGIBILITY CRITERIA
+- Damaged on Arrival: Full refund or free replacement. If order value is under $50, immediate refund is granted upon ticket creation without requiring return of the damaged item.
+- Delivery Delays Exceeding 14 Days: If an order has not arrived within 14 calendar days past the estimated delivery date, customer is entitled to cancel with a 100% full refund immediately.
+- Order Cancellation: Orders in "Processing" status can be cancelled instantly for a full refund before carrier dispatch.
+- Delivered Items Returned: Full purchase price minus return shipping fee ($5.99 if applicable) refunded after warehouse receipt and inspection.
+
+3. HUMAN APPROVAL REQUIRED FOR RESTRICTED ACTIONS
+Strict fraud prevention and quality safeguards require human administrator authorization for the following cases:
+- High-Value Orders: Any refund request exceeding $150.00 requires supervisor review and explicit approval.
+- "Delivered but Missing" Claims: When carrier tracking indicates delivered but customer reports non-receipt, claims exceeding $75.00 require human review.
+- Exceptions Past 30 Days: Any return or refund requested beyond the standard 30-day window requires administrative discretion.
+- Unmatched Tracking or Suspicious Pattern: Repeated loss reports require manual audit.
+STATUS TRANSITION: Restricted refund requests are placed in "Awaiting Approval" status. The AI agent cannot independently disburse funds for restricted cases. Once an administrator confirms approval with recorded reason and timestamp, the refund transitions to "Approved" and initiates disbursement.
+
+4. PARTIAL REFUNDS & RESTOCKING FEES
+- Items returned damaged due to customer misuse, missing serial tags, or missing essential accessories are subject to up to a 20% restocking deduction.

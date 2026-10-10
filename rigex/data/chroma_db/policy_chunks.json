@@ -1,0 +1,140 @@
+[
+  {
+    "chunk_id": "return_policy_1",
+    "source": "return_policy.txt",
+    "section": "2. RETURN ELIGIBILITY BY CATEGORY",
+    "text": "RESOLVEAI E-COMMERCE RETURN POLICY\nEffective Date: January 1, 2025\nLast Revised: October 2025\n\n1. STANDARD RETURN WINDOW\n- Customers may return most new, unopened, or gently inspected items within thirty (30) calendar days of the recorded delivery date.\n- Items must include all original packaging, tags, accessories, warranty cards, and manuals."
+  },
+  {
+    "chunk_id": "return_policy_2",
+    "source": "return_policy.txt",
+    "section": "3. RETURN SHIPPING FEES",
+    "text": "2. RETURN ELIGIBILITY BY CATEGORY\n- Electronics & Computers: 30-day window. Must be factory reset and free of customer personal locks/passwords.\n- Home, Kitchen & Apparel: 30-day window in original condition with tags attached.\n- Perishable Goods & Groceries: Non-returnable due to safety and health standards. If received expired or spoiled, a full refund or replacement is issued without return.\n- Personal Care & Hygiene Products: Non-returnable once the factory seal is broken.\n- Gift Cards & Digital Software Keys: Strictly non-returnable and non-refundable."
+  },
+  {
+    "chunk_id": "return_policy_3",
+    "source": "return_policy.txt",
+    "section": "4. RETURN PROCESS",
+    "text": "3. RETURN SHIPPING FEES\n- Defective, Damaged, or Wrong Items: Return shipping is 100% FREE. A prepaid carrier return label (FedEx/UPS) will be automatically generated upon ticket creation.\n- Change of Mind / Customer Preference: A standard return shipping fee of $5.99 will be deducted from the total refund amount.\n- International Returns: Customers have an extended 45-day window. International return postage varies by region."
+  },
+  {
+    "chunk_id": "return_policy_4",
+    "source": "return_policy.txt",
+    "section": "4. RETURN PROCESS",
+    "text": "4. RETURN PROCESS\nStep 1: Provide your valid Order ID (e.g., ORD-1001) in ResolveAI Chat or Complaint Center.\nStep 2: State the reason for return and the items being returned.\nStep 3: Our AI agent verifies order eligibility and issues a Return Merchandise Authorization (RMA) ticket.\nStep 4: Affix the shipping label and drop off the package at any authorized carrier drop-off point.\nStep 5: Inspection takes 2 business days upon arrival at our fulfillment center."
+  },
+  {
+    "chunk_id": "refund_policy_1",
+    "source": "refund_policy.txt",
+    "section": "2. REFUND ELIGIBILITY CRITERIA",
+    "text": "RESOLVEAI E-COMMERCE REFUND POLICY\nEffective Date: January 1, 2025\nLast Revised: October 2025\n\n1. REFUND METHODS & TIMELINES\n- All approved refunds are credited back to the original method of payment (Credit Card, Debit Card, PayPal, or UPI).\n- Banking processing time: 3 to 5 business days after refund approval.\n- Store Credit Option: Customers may opt for ResolveAI Instant Store Credit, which includes a 10% bonus credit (e.g., $100 refund becomes $110 store credit available instantly)."
+  },
+  {
+    "chunk_id": "refund_policy_2",
+    "source": "refund_policy.txt",
+    "section": "3. HUMAN APPROVAL REQUIRED FOR RESTRICTED ACTIONS",
+    "text": "2. REFUND ELIGIBILITY CRITERIA\n- Damaged on Arrival: Full refund or free replacement. If order value is under $50, immediate refund is granted upon ticket creation without requiring return of the damaged item.\n- Delivery Delays Exceeding 14 Days: If an order has not arrived within 14 calendar days past the estimated delivery date, customer is entitled to cancel with a 100% full refund immediately.\n- Order Cancellation: Orders in \"Processing\" status can be cancelled instantly for a full refund before carrier dispatch.\n- Delivered Items Returned: Full purchase price minus return shipping fee ($5.99 if applicable) refunded after warehouse receipt and inspection."
+  },
+  {
+    "chunk_id": "refund_policy_3",
+    "source": "refund_policy.txt",
+    "section": "4. PARTIAL REFUNDS & RESTOCKING FEES",
+    "text": "3. HUMAN APPROVAL REQUIRED FOR RESTRICTED ACTIONS\nStrict fraud prevention and quality safeguards require human administrator authorization for the following cases:\n- High-Value Orders: Any refund request exceeding $150.00 requires supervisor review and explicit approval.\n- \"Delivered but Missing\" Claims: When carrier tracking indicates delivered but customer reports non-receipt, claims exceeding $75.00 require human review.\n- Exceptions Past 30 Days: Any return or refund requested beyond the standard 30-day window requires administrative discretion.\n- Unmatched Tracking or Suspicious Pattern: Repeated loss reports require manual audit.\nSTATUS TRANSITION: Restricted refund requests are placed in \"Awaiting Approval\" status. The AI agent cannot independently disburse funds for restricted cases. Once an administrator confirms approval with recorded reason and timestamp, the refund transitions to \"Approved\" and initiates disbursement."
+  },
+  {
+    "chunk_id": "refund_policy_4",
+    "source": "refund_policy.txt",
+    "section": "4. PARTIAL REFUNDS & RESTOCKING FEES",
+    "text": "4. PARTIAL REFUNDS & RESTOCKING FEES\n- Items returned damaged due to customer misuse, missing serial tags, or missing essential accessories are subject to up to a 20% restocking deduction."
+  },
+  {
+    "chunk_id": "shipping_policy_1",
+    "source": "shipping_policy.txt",
+    "section": "1. SHIPPING TIERS & TIMELINES",
+    "text": "RESOLVEAI E-COMMERCE SHIPPING & DELIVERY POLICY\nEffective Date: January 1, 2025\nLast Revised: October 2025"
+  },
+  {
+    "chunk_id": "shipping_policy_2",
+    "source": "shipping_policy.txt",
+    "section": "2. TRACKING INFORMATION",
+    "text": "1. SHIPPING TIERS & TIMELINES\n- Standard Shipping: 3 to 5 business days across continental zones. Free on orders over $49.\n- Expedited / Express Shipping: 1 to 2 business days ($12.99 fee).\n- Same-Day Delivery: Available in selected metropolitan hubs for orders placed before 11:00 AM local time ($19.99 fee).\n- International Standard Shipping: 7 to 14 business days, subject to local customs clearance."
+  },
+  {
+    "chunk_id": "shipping_policy_3",
+    "source": "shipping_policy.txt",
+    "section": "3. DELAY NOTIFICATIONS & RESOLUTION",
+    "text": "2. TRACKING INFORMATION\n- Tracking numbers are issued as soon as fulfillment assigns the carrier label (within 24 hours of checkout).\n- Active carrier tracking links (FedEx, UPS, DHL, OnTrac) show checkpoints: Order Placed -> Fulfillment Center -> In Transit -> Out for Delivery -> Delivered."
+  },
+  {
+    "chunk_id": "shipping_policy_4",
+    "source": "shipping_policy.txt",
+    "section": "4. ADDRESS CHANGES & CANCELLATIONS",
+    "text": "3. DELAY NOTIFICATIONS & RESOLUTION\n- When severe weather, customs delays, or routing bottlenecks cause a delivery to slip beyond its estimated delivery date, ResolveAI flags the order status as \"Delayed\".\n- Minor delays (1-3 days): Customers receive automated priority tracking updates.\n- Extended delays (4-7 days): Customers are offered a $15 inconvenience credit or priority courier re-dispatch.\n- Critical delays (>14 days past ETA): Eligible for immediate full refund upon customer request."
+  },
+  {
+    "chunk_id": "shipping_policy_5",
+    "source": "shipping_policy.txt",
+    "section": "4. ADDRESS CHANGES & CANCELLATIONS",
+    "text": "4. ADDRESS CHANGES & CANCELLATIONS\n- Shipping address modifications can be processed directly via customer service only while the order is in \"Processing\" status.\n- Once an order transitions to \"Shipped\" or \"In Transit\", address re-routing requests are handled with carrier dispatch and may incur a $10 carrier re-routing fee."
+  },
+  {
+    "chunk_id": "warranty_policy_1",
+    "source": "warranty_policy.txt",
+    "section": "2. WHAT IS NOT COVERED",
+    "text": "RESOLVEAI PRODUCT WARRANTY POLICY\nEffective Date: January 1, 2025\nLast Revised: October 2025\n\n1. STANDARD 1-YEAR LIMITED WARRANTY\n- All consumer electronics, smart gadgets, home appliances, and audio gear purchased through ResolveAI include an automatic 1-Year Limited Manufacturer Warranty starting from the date of delivery.\n- Coverage includes: Manufacturing defects, premature mechanical failure, firmware faults, and internal component malfunction under normal use."
+  },
+  {
+    "chunk_id": "warranty_policy_2",
+    "source": "warranty_policy.txt",
+    "section": "4. HOW TO FILE A WARRANTY CLAIM",
+    "text": "2. WHAT IS NOT COVERED\n- Accidental damage including water submersion, screen cracks from physical drops, or power surge damage.\n- Unauthorized third-party repairs, modifications, or tampering with internal tamper-evident seals.\n- Cosmetic scratches, normal wear-and-tear, or lost/stolen items.\n\n3. EXTENDED PROTECTION (RESOLVECARE+)\n- Customers enrolled in ResolveCare+ enjoy 24-month accidental damage coverage (drops & spills), express replacement units, and zero shipping deductible."
+  },
+  {
+    "chunk_id": "warranty_policy_3",
+    "source": "warranty_policy.txt",
+    "section": "4. HOW TO FILE A WARRANTY CLAIM",
+    "text": "4. HOW TO FILE A WARRANTY CLAIM\nStep 1: Contact ResolveAI Chat or Complaint Center with your Order ID (e.g., ORD-1004).\nStep 2: Describe the defect and provide a photo or short video showing the issue.\nStep 3: If deemed eligible by our warranty diagnostic rules, a warranty replacement or authorized repair ticket is generated within 24 hours.\nStep 4: Replacement units are dispatched via express shipping."
+  },
+  {
+    "chunk_id": "faq_1",
+    "source": "faq.txt",
+    "section": "Q: Can I cancel my order?",
+    "text": "RESOLVEAI FREQUENTLY ASKED QUESTIONS (FAQ)\nEffective Date: January 1, 2025\n\nQ: How do I track my order?\nA: You can track any purchase immediately using our Order Tracking dashboard or by asking the AI chatbot \"Where is my order ORD-1002?\". You will see live delivery status, carrier tracking details, checkpoints, and estimated delivery dates."
+  },
+  {
+    "chunk_id": "faq_2",
+    "source": "faq.txt",
+    "section": "Q: What should I do if my package says delivered, but I have not received it?",
+    "text": "Q: Can I cancel my order?\nA: Orders in \"Processing\" status can be cancelled immediately for a 100% full refund. Once an order status is \"Shipped\" or \"In Transit\", it cannot be cancelled mid-route; however, you can refuse delivery or initiate a return within 30 days of arrival."
+  },
+  {
+    "chunk_id": "faq_3",
+    "source": "faq.txt",
+    "section": "Q: How does the refund process work?",
+    "text": "Q: What should I do if my package says delivered, but I have not received it?\nA: Please first verify your front porch, parcel locker, or check with household members/neighbors. If still missing, notify ResolveAI immediately. We will initiate a carrier investigation and generate an urgent missing package ticket. For orders over $75, an administrator approval is required for immediate refund."
+  },
+  {
+    "chunk_id": "faq_4",
+    "source": "faq.txt",
+    "section": "Q: What if my item arrives damaged?",
+    "text": "Q: How does the refund process work?\nA: Once approved, refunds are credited back to your original payment method in 3-5 business days. You can also choose instant Store Credit with a 10% bonus. For damaged orders under $50, refunds are issued immediately upon ticket creation without requiring return."
+  },
+  {
+    "chunk_id": "faq_5",
+    "source": "faq.txt",
+    "section": "Q: Does ResolveAI support Tamil / Tanglish queries?",
+    "text": "Q: What if my item arrives damaged?\nA: Submit a report in our Complaint Center or inform the AI chatbot with your Order ID and description of the damage. We will file a priority ticket (status: Open, priority: Urgent/High) and initiate return or replacement."
+  },
+  {
+    "chunk_id": "faq_6",
+    "source": "faq.txt",
+    "section": "Q: How do I talk to a human supervisor?",
+    "text": "Q: Does ResolveAI support Tamil / Tanglish queries?\nA: Yes! ResolveAI understands conversational queries in English as well as colloquial Tamil-English (Tanglish), such as \"En order delayed aachu, status enna?\", \"Damaged product vandhurukku, refund varuma?\", and responds with empathy and verified facts."
+  },
+  {
+    "chunk_id": "faq_7",
+    "source": "faq.txt",
+    "section": "Q: How do I talk to a human supervisor?",
+    "text": "Q: How do I talk to a human supervisor?\nA: If our automated assistance or policy guidelines do not fully resolve your inquiry, simply type \"I want to talk to a human\" or \"Escalate this issue\". ResolveAI will instantly create an Escalated priority ticket for supervisor intervention."
+  }
+]

@@ -1,0 +1,10 @@
+# ResolveAI Core Dependencies
+streamlit>=1.35.0
+google-genai>=2.28.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+chromadb>=0.5.0
+plotly>=5.20.0
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+pytest>=8.0.0

@@ -1,0 +1,26 @@
+RESOLVEAI E-COMMERCE RETURN POLICY
+Effective Date: January 1, 2025
+Last Revised: October 2025
+
+1. STANDARD RETURN WINDOW
+- Customers may return most new, unopened, or gently inspected items within thirty (30) calendar days of the recorded delivery date.
+- Items must include all original packaging, tags, accessories, warranty cards, and manuals.
+
+2. RETURN ELIGIBILITY BY CATEGORY
+- Electronics & Computers: 30-day window. Must be factory reset and free of customer personal locks/passwords.
+- Home, Kitchen & Apparel: 30-day window in original condition with tags attached.
+- Perishable Goods & Groceries: Non-returnable due to safety and health standards. If received expired or spoiled, a full refund or replacement is issued without return.
+- Personal Care & Hygiene Products: Non-returnable once the factory seal is broken.
+- Gift Cards & Digital Software Keys: Strictly non-returnable and non-refundable.
+
+3. RETURN SHIPPING FEES
+- Defective, Damaged, or Wrong Items: Return shipping is 100% FREE. A prepaid carrier return label (FedEx/UPS) will be automatically generated upon ticket creation.
+- Change of Mind / Customer Preference: A standard return shipping fee of $5.99 will be deducted from the total refund amount.
+- International Returns: Customers have an extended 45-day window. International return postage varies by region.
+
+4. RETURN PROCESS
+Step 1: Provide your valid Order ID (e.g., ORD-1001) in ResolveAI Chat or Complaint Center.
+Step 2: State the reason for return and the items being returned.
+Step 3: Our AI agent verifies order eligibility and issues a Return Merchandise Authorization (RMA) ticket.
+Step 4: Affix the shipping label and drop off the package at any authorized carrier drop-off point.
+Step 5: Inspection takes 2 business days upon arrival at our fulfillment center.

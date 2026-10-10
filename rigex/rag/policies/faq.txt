@@ -1,0 +1,23 @@
+RESOLVEAI FREQUENTLY ASKED QUESTIONS (FAQ)
+Effective Date: January 1, 2025
+
+Q: How do I track my order?
+A: You can track any purchase immediately using our Order Tracking dashboard or by asking the AI chatbot "Where is my order ORD-1002?". You will see live delivery status, carrier tracking details, checkpoints, and estimated delivery dates.
+
+Q: Can I cancel my order?
+A: Orders in "Processing" status can be cancelled immediately for a 100% full refund. Once an order status is "Shipped" or "In Transit", it cannot be cancelled mid-route; however, you can refuse delivery or initiate a return within 30 days of arrival.
+
+Q: What should I do if my package says delivered, but I have not received it?
+A: Please first verify your front porch, parcel locker, or check with household members/neighbors. If still missing, notify ResolveAI immediately. We will initiate a carrier investigation and generate an urgent missing package ticket. For orders over $75, an administrator approval is required for immediate refund.
+
+Q: How does the refund process work?
+A: Once approved, refunds are credited back to your original payment method in 3-5 business days. You can also choose instant Store Credit with a 10% bonus. For damaged orders under $50, refunds are issued immediately upon ticket creation without requiring return.
+
+Q: What if my item arrives damaged?
+A: Submit a report in our Complaint Center or inform the AI chatbot with your Order ID and description of the damage. We will file a priority ticket (status: Open, priority: Urgent/High) and initiate return or replacement.
+
+Q: Does ResolveAI support Tamil / Tanglish queries?
+A: Yes! ResolveAI understands conversational queries in English as well as colloquial Tamil-English (Tanglish), such as "En order delayed aachu, status enna?", "Damaged product vandhurukku, refund varuma?", and responds with empathy and verified facts.
+
+Q: How do I talk to a human supervisor?
+A: If our automated assistance or policy guidelines do not fully resolve your inquiry, simply type "I want to talk to a human" or "Escalate this issue". ResolveAI will instantly create an Escalated priority ticket for supervisor intervention.
